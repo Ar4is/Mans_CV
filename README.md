@@ -62,6 +62,7 @@ else :
 
 ## Tabula
 | Nodarbes | Pritoritāte 5 baļu sistēmā |
+|----------|----------------------------|
 | Dejošana |             4              |
 | mācības  |             3              |
 | Draugi   |             4              | 
@@ -76,5 +77,4 @@ DP1-3 audzēknis Artūrs Vaļuks
 
 
 😃😃
-😉😉
 😀😀
