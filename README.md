@@ -1,2 +1,2 @@
 # Mans_CV
-![Nav lejuplādēts](https://www.google.com/imgres?imgurl=https%3A%2F%2Fs3.amazonaws.com%2Fcdn-origin-etr.akc.org%2Fwp-content%2Fuploads%2F2017%2F11%2F11141747%2FDogo-Argentino.jpg&imgrefurl=https%3A%2F%2Fwww.akc.org%2Fdog-breeds%2Fdogo-argentino%2F&tbnid=1EWnQRMFuf_Y_M&vet=12ahUKEwitzamB9sruAhVDxSoKHUA2BqMQMygEegUIARCzAQ..i&docid=UCQsCoQoR9i-3M&w=729&h=486&q=dogo&client=firefox-b-d&ved=2ahUKEwitzamB9sruAhVDxSoKHUA2BqMQMygEegUIARCzAQ)
+![Nav lejuplādēts](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/0Dogo-argentino-22122251920.jpg/1200px-0Dogo-argentino-22122251920.jpg)
